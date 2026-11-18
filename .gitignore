@@ -1,0 +1,51 @@
+# Unity が自動生成するフォルダ(再生成できるので管理しない)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset Store ツールの一時ファイル
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.slnx
+
+# ビルド成果物
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.ipa
+
+# クラッシュ・ログ
+sysinfo.txt
+crashlytics-build.properties
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code のローカル設定
+.claude/settings.local.json
